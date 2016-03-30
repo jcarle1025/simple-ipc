@@ -1,0 +1,6 @@
+THIS IS ALL LOWER
+now it is upper
+STARTED UPPER ENDED LOWER
+SAME THING
+started lower ended upper
+and again, same thing
